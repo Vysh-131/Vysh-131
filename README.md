@@ -1,6 +1,5 @@
-# Elloooo
+# Hi, Im Vyshakh.
 
-<!--
 I am an Electronics & Computer Science Engineering student interested in Artificial Intelligence, Computer Vision, Automation Systems.
 
 **Technical Skills**
@@ -9,4 +8,3 @@ I am an Electronics & Computer Science Engineering student interested in Artific
 * **Current Focus:** Developing detection models,Integrating software with hardware, Automation Solutions.
 
 vyshakhsanil13@gmail.com
--->
